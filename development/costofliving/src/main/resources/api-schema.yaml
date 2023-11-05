@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info: 
+  title: "Cost of Living API"
+  version: "0.8"
+paths: 
+  /cost: 
+    get: 
+      responses: 
+        '200': 
+          description: "OK"
+    summary: "s"
+    description: "s"
